@@ -12,7 +12,7 @@ Welcome to the Responsive Landing Page project! This is a web development projec
 ## Demo
 
 You can check out a live demo of the project [https://foodgardens.netlify.app/](https://foodgardens.netlify.app/).
-![Responsive Landing Page Demo](/.png)
+![Responsive Landing Page Demo](src/.png)
 ## Features
 
 - **Responsive Design**: The landing page is designed to be fully responsive, ensuring a great user experience across various devices and screen sizes.
